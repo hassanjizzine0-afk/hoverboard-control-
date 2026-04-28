@@ -35,6 +35,13 @@ This repo shows you how to configure and flash that same base firmware for two d
     *   Hoverboard with its 36V battery.
     *   **ST-Link V2 programmer** (required to flash the firmware).
     *   **Multimeter** (to safely verify wires!).
+  
+![image_alt](https://github.com/hassanjizzine0-afk/hoverboard-control-/blob/20e7e078dae673a9ef120dd9b184c103beff5304/photo0089704_M2.jpg)
+
+
+
+
+      
 2.  **Software (on your Ubuntu PC):**
     *   **Visual Studio Code** with the **PlatformIO IDE extension** installed.
     *   *(PlatformIO automatically installs the ARM GCC compiler and tools needed to build the firmware).*
