@@ -9,20 +9,6 @@ This repository provides a complete guide to repurpose a **hoverboard controller
 - **The challenge:** The original firmware is locked to balance gyroscopes. To control it for a robot, you **must flash custom firmware**.
 
 
-
-
-
-![Uploading image.png…]()
-
-
-
-
-
-
-
-
-
-
 ## 🎯 Your Two Control Methods
 
 This repo shows you how to configure and flash that same base firmware for two different control styles. **You will choose and flash ONE variant at a time.**
