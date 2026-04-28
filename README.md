@@ -8,6 +8,17 @@ This repository provides a complete guide to repurpose a **hoverboard controller
 - **What it lacks:** Hall sensors (for super-precise motor position) are not used. The firmware uses **Field Oriented Control (FOC)** based on motor current sensing.
 - **The challenge:** The original firmware is locked to balance gyroscopes. To control it for a robot, you **must flash custom firmware**.
 
+![image_alt](https://github.com/hassanjizzine0-afk/hoverboard-control-/blob/5181ca5e1dca4890f59d992844e98c160d92d2f2/mainboard_pinout.png)
+
+
+
+
+
+
+
+
+
+
 
 ## 🎯 Your Two Control Methods
 
